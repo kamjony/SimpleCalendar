@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Weekly Calendar with SQLite</string>
+    <string name="title_activity_main">Weekly Calendar</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="previous"><![CDATA[<--]]></string>
+    <string name="next"><![CDATA[-->]]></string>
+    <string name="weekly">Weekly</string>
+    <string name="create_event">Create Event</string>
+    <string name="name">Name:</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="delete">DELETE</string>
+</resources>
